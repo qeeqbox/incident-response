@@ -4,7 +4,12 @@ Incident response is a set of steps that are used to handle the aftermath of a d
 
 ### Steps
 #### Preparation
-This step determines how the origination will respond in case a data breach or cyberattack occurs (It's established before the incident). E.g., Create a list of assets (Risk assessment), a communication plan, create an IR plan, etc..
+This step determines how the origination will respond in case a data breach or cyberattack occurs (It's established before the incident)
+- List of assets (Risk assessment)
+- Communication
+- Documentation
+- Training
+- IR plan
 
 #### Identification
 Determinate wheater or not a data breach or cyberattack happened
