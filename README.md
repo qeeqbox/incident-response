@@ -1,8 +1,9 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/incident-response/main/incident-response.png"></p>
 
-Incident response is a set of steps that are used to handle the aftermath of a data breach or cyberattack
+## Incident response
+IR is a set of steps that are used to handle the aftermath of a data breach or cyberattack
 
-### Steps
+## Steps
 #### Preparation
 This step determines how the origination will respond in case a data breach or cyberattack occurs (It's established before the incident)
 - List of assets (Risk assessment)
