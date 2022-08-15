@@ -20,7 +20,7 @@ Once an incident is identified, then affected assets are isolated
 - Long-Term
 
 #### Eradication
-Eliminating the cause of the data breach or cyberattack
+Eliminate the cause of the data breach or cyberattack
 
 #### Recovery
 Bring the affected assets back to production and monitor them to ensure everything is back to normal
