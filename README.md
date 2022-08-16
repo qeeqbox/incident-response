@@ -13,7 +13,7 @@ This step determines how the origination will respond in case a data breach or c
 - IR plan
 
 #### Identification
-Determinate wheater or not a data breach or cyberattack happened
+Determinate whether a data breach or cyberattack happened or not
 
 #### Containment
 Once an incident is identified, then affected assets are isolated
