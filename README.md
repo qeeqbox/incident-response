@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/incident-response/main/incident-response.png"></p>
 
 ## Incident response
-IR is a set of steps that are used to handle the aftermath of a data breach or cyberattack
+Incident response is a set of steps that are used to handle the aftermath of a data breach or cyberattack
 
 ## Steps
 #### Preparation
